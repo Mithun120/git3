@@ -1,6 +1,0 @@
-To Check diff of last commit / previous commit
-git diff HEAD~{n}
-To check diff with HEAD
-git diff  / git diff HEAD
-To check diff with sha’s
-git diff <sha-id> <sha-id>
